@@ -1,4 +1,4 @@
-package com.example.easyscan
+package eu.wautier.easyscan
 
 import io.flutter.embedding.android.FlutterActivity
 

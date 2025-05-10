@@ -37,11 +37,11 @@ stations or temporarily replace disabled scanning stations. The API is easy to i
 
 By embedding a dictionary with 2 keys, info and data, in the QR code, you could setup
 2 step scanning. First the QR code is scanned and the value of the info key is displayed.
-The operator can select Cancel or Ok. If Ok, the fyll content of the QR code is sent.
+The operator can select Cancel or Ok. If Ok, the full content of the QR code is sent.
 
 ## My first phone application
 
-This project is my first phone application. To wtite it, I used Gemini and Cloude AI.
+This project is my first phone application. To write it, I used Gemini and Cloude AI.
 
 I used VS code for handling code, compilation Android debugging etc. 
 
